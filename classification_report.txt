@@ -1,0 +1,14 @@
+              precision    recall  f1-score   support
+
+         Art       0.90      0.92      0.91      1249
+         Car       0.98      0.85      0.91      1005
+     Economy       0.70      0.94      0.81      1397
+      Health       0.97      0.90      0.93       864
+  Technology       0.93      0.95      0.94      1360
+     Tourism       0.98      0.24      0.39       533
+    politics       0.88      0.91      0.89      1350
+       sport       0.98      0.99      0.98      1334
+
+    accuracy                           0.89      9092
+   macro avg       0.92      0.84      0.84      9092
+weighted avg       0.90      0.89      0.88      9092
